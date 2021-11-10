@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,100:000&width=100%&height=200&section=header&text=Jongseong%20Kim&fontSize=50&fontColor=fff&fontAlignY=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3ba776,100:0b1015&width=100%&height=200&section=header&text=Jongseong%20Kim&fontSize=50&fontColor=fff&fontAlignY=35&animation=twinkling)
 
 ## <div align=center>My Skills</div>
 
