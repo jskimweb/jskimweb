@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=3ba776&width=100%&height=200&section=header&text=Jongseong%20Kim&fontSize=60&fontColor=fff&fontAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=3ba776&width=100%&height=300&section=header&text=JS%20Kim&fontSize=100&fontColor=fff&fontAlignY=50&animation=twinkling)
 
 ## <div align=center>🛠 *Skill* 🛠</div>
 
