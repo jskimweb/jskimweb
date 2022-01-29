@@ -13,7 +13,7 @@
 ## <div align=center>📚 *Studying* 📚</div>
 
 <div align=center>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </div>
 
 ## <div align=center>💿 *Portfolio* 💿</div>
