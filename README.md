@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=3ba776&width=100%&height=200&section=header&text=jskimweb&fontSize=95&fontColor=fff&fontAlignY=50&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=3ba776&width=100%&height=200&section=header&text=jskimweb&fontSize=95&fontColor=fff&fontAlignY=50&animation=twinkling) -->
 
 <!-- ## <div align=center>📚 *My Teck Stack*</div>
 
